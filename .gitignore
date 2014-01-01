@@ -1,0 +1,7 @@
+*
+!*/
+!/.gitignore
+!/LICENSE
+!/README.md
+!/jison-rails.gemspec
+!/lib/**/*.rb
